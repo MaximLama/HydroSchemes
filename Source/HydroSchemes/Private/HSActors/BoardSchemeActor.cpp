@@ -59,8 +59,9 @@ void ABoardSchemeActor::ShowHolo(AHUBaseCharacter* Character, const FHitResult H
 		}
 	}
 	if (Character->Holo && !Character->Holo->IsActorBeingDestroyed()) {
-		if (Character->Holo->GetAttachParentActor() != BoardPart) {
-			Character->Holo->DetachFromActor(FDetachmentTransformRules::KeepWorldTransform);
+		AActor* AttachActor = Character->Holo->GetAttachParentActor();
+		if ((!AttachActor) || (AttachActor != BoardPart)) {
+			if (AttachActor) Character->Holo->DetachFromActor(FDetachmentTransformRules::KeepWorldTransform);
 			Character->Holo->AttachToActor(BoardPart, FAttachmentTransformRules::SnapToTargetNotIncludingScale, BoardPart->SlotSocketName);
 			Character->CheckHoloState(BoardPart);
 		}
@@ -198,6 +199,10 @@ void ABoardSchemeActor::SetInputPressure(FString SocketName, float Pressure)
 	OnSetInputPressureAfter(SocketName, Pressure);
 }
 
+void ABoardSchemeActor::OnSetOutputPressureAfter(FString SocketName, float Pressure)
+{
+}
+
 void ABoardSchemeActor::OnSetInputPressureAfter(FString SocketName, float Pressure)
 {
 }
@@ -211,7 +216,6 @@ void ABoardSchemeActor::SetSocketRelatedActor(FString ThisSocketName, ABoardSche
 
 void ABoardSchemeActor::BFS(FString StartSocketName)
 {
-	UE_LOG(LogTemp, Warning, TEXT("-------------------------"));
 
 	// Получаем стартовый сокет, с которого начнется поиск в ширину
 	FBoardActorOutput* FirstSocketOutput = SocketOutputs.Find(StartSocketName);
@@ -490,5 +494,12 @@ void ABoardSchemeActor::CheckPressure()
 			SetOutputPressure(SocketOutput.Key, 0.f);
 			BFS(SocketOutput.Key);
 		}
+	}
+}
+
+void ABoardSchemeActor::SocketBroadcast()
+{
+	for (TPair<FString, FBoardActorOutput>& Socket : SocketOutputs) {
+		Socket.Value.Delegate.Broadcast();
 	}
 }

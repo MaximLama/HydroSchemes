@@ -25,7 +25,7 @@ void AHydraulicLock::CreateSchemes()
 	FSocketRelationsScheme SocketRelationScheme1;
 	Create1Scheme(SocketRelationScheme1);
 	FSocketRelationsScheme SocketRelationScheme2;
-	Create1Scheme(SocketRelationScheme2);
+	Create2Scheme(SocketRelationScheme2);
 	SocketRelationsSchemes.Add(SocketRelationScheme1);
 	SocketRelationsSchemes.Add(SocketRelationScheme2);
 }
@@ -42,6 +42,7 @@ void AHydraulicLock::OnSetInputPressureAfter(FString SocketName, float Pressure)
 		FBoardActorOutput* XSocketOutput = SocketOutputs.Find("X");
 		bool isPressureSaved = (XSocketOutput->Pressure == Pressure);
 		CurrentScheme = (Pressure > 0) ? SocketRelationsSchemes[1] : SocketRelationsSchemes[0];
+		SocketBroadcast();
 		if (!isPressureSaved) {
 			CheckPressure();
 		}

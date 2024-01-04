@@ -130,6 +130,7 @@ public:
 	virtual void ChangeState() {};
 	void SetOutputPressure(FString SocketName, float Pressure);
 	void SetInputPressure(FString SocketName, float Pressure);
+	virtual void OnSetOutputPressureAfter(FString SocketName, float Pressure);
 	virtual void OnSetInputPressureAfter(FString SocketName, float Pressure);
 	void SetSocketRelatedActor(FString ThisSocketName, ABoardSchemeActor* RelatedActor, FString RelatedSocketName);
 	void BFS(FString StartSocketName);
@@ -138,4 +139,5 @@ public:
 	FRelatedActorData FindOutputActorDataWithPressure(ABoardSchemeActor* TargetActor, FString TargetSocketName, TSet<FRelatedActorData>& Visited, TQueue<FRelatedActorData>& Queue, bool bCheckOutput = false);
 	FRelatedActorData FindSocketWithPressureQueueCycle(TQueue<FRelatedActorData>& Queue, TSet<FRelatedActorData>& Visited, bool bCheckOutput = false);
 	void CheckPressure();
+	void SocketBroadcast();
 };

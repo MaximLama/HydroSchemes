@@ -9,7 +9,7 @@ void AHydraulicDistributorScheme573::Create1Scheme(FSocketRelationsScheme& Socke
 	FSocketRelations ARelations;
 	ARelations.SocketRelations.Add("T");
 	FSocketRelations TRelations;
-	ARelations.SocketRelations.Add("A");
+	TRelations.SocketRelations.Add("A");
 	SocketRelationsScheme.SocketRelationsScheme.Add(FString("A"), ARelations);
 	SocketRelationsScheme.SocketRelationsScheme.Add(FString("T"), TRelations);
 }
@@ -19,7 +19,7 @@ void AHydraulicDistributorScheme573::Create2Scheme(FSocketRelationsScheme& Socke
 	FSocketRelations ARelations;
 	ARelations.SocketRelations.Add("P");
 	FSocketRelations PRelations;
-	ARelations.SocketRelations.Add("A");
+	PRelations.SocketRelations.Add("A");
 	SocketRelationsScheme.SocketRelationsScheme.Add(FString("A"), ARelations);
 	SocketRelationsScheme.SocketRelationsScheme.Add(FString("P"), PRelations);
 }
@@ -43,5 +43,7 @@ AHydraulicDistributorScheme573::AHydraulicDistributorScheme573()
 
 void AHydraulicDistributorScheme573::ChangeState()
 {
+	CurrentScheme = SocketRelationsSchemes[LeverBox->GetStateIndex()];
+	SocketBroadcast();
 	CheckPressure();
 }

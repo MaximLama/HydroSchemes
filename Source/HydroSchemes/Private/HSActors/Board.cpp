@@ -48,10 +48,7 @@ void ABoard::AddBoxOffset(const FVector& Offset)
 }
 
 void ABoard::Tick(float DeltaTime)
-{
-	FTransform ObjectTransform = GetActorTransform();	
-	DrawDebugCoordinateSystem(GetWorld(), ObjectTransform.GetLocation(), ObjectTransform.GetRotation().Rotator(), 100.f, false, -1, 0, 10.f);
-}
+{}
 
 bool ABoard::CanPlaceHolo(ABoardSchemeActor* HoloActor)
 {

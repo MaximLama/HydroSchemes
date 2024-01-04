@@ -55,5 +55,6 @@ AHydraulicDistributorScheme574::AHydraulicDistributorScheme574()
 void AHydraulicDistributorScheme574::ChangeState()
 {
 	CurrentScheme = SocketRelationsSchemes[LeverBox->GetStateIndex()];
+	SocketBroadcast();
 	CheckPressure();
 }
