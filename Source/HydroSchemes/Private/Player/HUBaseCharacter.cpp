@@ -17,7 +17,6 @@
 #include "Components/InputComponent.h"
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
-#include "Engine/Engine.h"
 #include "HSActors/BoardSchemeActor.h"
 #include "HSActors/Cable.h"
 
@@ -117,15 +116,12 @@ void AHUBaseCharacter::Interact()
 				IPickUpInterface* PickUpActor = Cast<IPickUpInterface>(HitActor);
 				if (PickUpActor->bIsPickUpAble) {
 					auto InventoryElement = FInventoryElement();
-					PickUpActor->PickUpItem(InventoryElement);
+					PickUpActor->PickUpItem(&InventoryElement);
 					InventoryComponent->AddItemToInventory(InventoryElement);
 					if (InventoryWidget && InventoryWidget->IsValidLowLevel())
 						InventoryWidget->AddItemToList(InventoryElement);
 				}
 			}
-			//if (HitActor->IsA<ABoardPart>() && HoloSchemeActor && !HoloSchemeActor->IsActorBeingDestroyed()) {
-			//	auto NewSchemePart = 
-			//}
 		}
 	}
 	else {
@@ -204,9 +200,6 @@ void AHUBaseCharacter::Look(const FInputActionValue& Value)
 
 void AHUBaseCharacter::ToggleInventory()
 {
-	if (GEngine) {
-		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("ToggleInventory"));
-	}
 	if (InputMode == EInputMode::Game) {
 		if (InventoryWidget && InventoryWidget->IsValidLowLevel()) {
 			InventoryWidget->SetVisibility(ESlateVisibility::Visible);
@@ -264,12 +257,10 @@ void AHUBaseCharacter::CheckHoloState(const ABoardPart* AttachBoardPart)
 		if (Board) {
 			BoardHoloSchemeActor->InitSize(Board->GetBoardPartSize().X);
 			if (Board->CanPlaceHolo(BoardHoloSchemeActor)) {
-				UE_LOG(LogTemp, Warning, TEXT("Can place"));
 				BoardHoloSchemeActor->SetHoloMaterialColor(CorrectHoloColor);
 				HoloState = EHoloState::Correct;
 			}
 			else {
-				UE_LOG(LogTemp, Warning, TEXT("Cannot place"));
 				BoardHoloSchemeActor->SetHoloMaterialColor(IncorrectHoloColor);
 				HoloState = EHoloState::Incorrect;
 			}

@@ -4,8 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "UObject/Interface.h"
-#include "Inventory/InventoryElement.h"
 #include "PickUpInterface.generated.h"
+
+struct FInventoryElement;
 
 // This class does not need to be modified.
 UINTERFACE(MinimalAPI, Blueprintable)
@@ -24,5 +25,5 @@ class HYDROSCHEMES_API IPickUpInterface
 	// Add interface functions to this class. This is the class that will be inherited to implement this interface.
 public:
 	bool bIsPickUpAble = true;
-	virtual void PickUpItem(FInventoryElement& InventoryElement) = 0;
+	virtual void PickUpItem(FInventoryElement* InventoryElement) = 0;
 };

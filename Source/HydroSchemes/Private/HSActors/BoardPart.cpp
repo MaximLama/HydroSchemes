@@ -30,12 +30,5 @@ FVector ABoardPart::GetLocalObjectSize()
 void ABoardPart::BeginPlay()
 {
 	Super::BeginPlay();
-	
-	//if (!StaticMesh) return;
-	//FVector Min = FVector();
-	//FVector Max = FVector();
-	//StaticMesh->GetLocalBounds(Min, Max);
-	//UE_LOG(BaseBoardPartLog, Display, TEXT("MIN: %s"), *Min.ToString());
-	//UE_LOG(BaseBoardPartLog, Display, TEXT("MIN: %s"), *Max.ToString());
 }
 

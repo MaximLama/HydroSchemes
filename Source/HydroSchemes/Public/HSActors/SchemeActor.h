@@ -4,9 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "Inventory/InventoryElement.h"
 #include "Interfaces/PickUpInterface.h"
-#include "HSActors/BoardPart.h"
 #include "SchemeActor.generated.h"
 
 #define BOARD_CHANNEL ECC_GameTraceChannel2
@@ -31,7 +29,7 @@ public:
 
 	TWeakObjectPtr<UMaterialInstanceDynamic> HoloMaterialInstance;
 
-	virtual void PickUpItem(FInventoryElement& InventoryElement) override;
+	virtual void PickUpItem(FInventoryElement* InventoryElement) override;
 	
 
 protected:

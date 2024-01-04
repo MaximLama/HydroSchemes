@@ -33,9 +33,6 @@ void APlus::BeginPlay()
 
 void APlus::Interact()
 {
-	if (GEngine) {
-		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Interact"));
-	}
 	auto Board = Cast<ABoard>(this->GetAttachParentActor());
 	/*if (Board) {
 		Board->AddParts(this);

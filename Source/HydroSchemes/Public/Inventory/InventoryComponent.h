@@ -4,9 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "Inventory/InventoryElement.h"
 #include "InventoryComponent.generated.h"
-
-struct FInventoryElement;
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class HYDROSCHEMES_API UInventoryComponent : public UActorComponent

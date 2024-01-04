@@ -3,9 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "HSActors/SchemeActor.h"
 #include "InventoryElement.generated.h"
-
-class ASchemeActor;
 
 /**
  * 

@@ -39,7 +39,5 @@ void UBoardBoundingBoxComponent::UpdateBoxExtent()
 
 void UBoardBoundingBoxComponent::ShiftBoundingBox(const FVector& Offset)
 {
-	UE_LOG(LogTemp, Warning, TEXT("Box - %s"), *BoundingBox.ToString());
 	if (GetOwner())	BoundingBox = BoundingBox.ShiftBy(Offset);
-	UE_LOG(LogTemp, Warning, TEXT("Box - %s"), *BoundingBox.ToString());
 }

@@ -10,9 +10,6 @@
 
 void UInventory::AddItemToList(const FInventoryElement& InventoryElement)
 {
-	if (GEngine) {
-		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, InventoryElement.ElementName.ToString());
-	}
 	if (!GetWorld()) return;
 	AHUPlayerController* PlayerController = Cast<AHUPlayerController>(UGameplayStatics::GetPlayerController(GetWorld(), 0));
 	if (PlayerController && InventorySlotClass) {

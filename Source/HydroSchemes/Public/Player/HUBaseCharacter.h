@@ -15,6 +15,8 @@ class UInputAction;
 class UCameraComponent;
 class UInventoryComponent;
 class ABoardSchemeActor;
+class ABoardPart;
+class UInventory;
 
 UENUM(BlueprintType)
 enum class EInputMode : uint8
@@ -45,7 +47,7 @@ protected:
 	TObjectPtr<UCameraComponent> CameraComponent;
 
 	UPROPERTY(EditDefaultsOnly)
-	TSubclassOf<class UInventory> InventoryWidgetClass;
+	TSubclassOf<UInventory> InventoryWidgetClass;
 	UPROPERTY(VisibleAnywhere)
 	TObjectPtr<UInventory> InventoryWidget;
 

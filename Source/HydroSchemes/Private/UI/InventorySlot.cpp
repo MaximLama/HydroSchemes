@@ -5,14 +5,11 @@
 #include "Components/TextBlock.h"
 #include "Kismet/GameplayStatics.h"
 #include "Player/HUBaseCharacter.h"
-#include "Engine/Engine.h"
+#include "Inventory/InventoryComponent.h"
 
 void UInventorySlot::NativeConstruct()
 {
 	Super::NativeConstruct();
-	if (GEngine) {
-		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Created Inventory Slot"));
-	}
 	
 	SetVisibility(ESlateVisibility::Visible);
 	if (InventoryItemTitle && !InventoryItemTitle->GetText().IsEmpty()) {
@@ -37,9 +34,6 @@ void UInventorySlot::SetInventoryItemTitle()
 
 void UInventorySlot::SetInventoryItem(const FInventoryElement& InventoryElement)
 {
-	if (GEngine) {
-		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Name is set"));
-	}
 	InventoryItem = InventoryElement;
 	SetInventoryItemTitle();
 }

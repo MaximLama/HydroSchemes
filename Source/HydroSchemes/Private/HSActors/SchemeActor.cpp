@@ -2,10 +2,11 @@
 
 
 #include "HSActors/SchemeActor.h"
-#include "Inventory/InventoryElement.h"
+#include "Inventory/InventoryComponent.h"
 #include "Engine/CollisionProfile.h"
 #include "Materials/MaterialInstanceDynamic.h"
 #include "Player/HUBaseCharacter.h"
+#include "Interfaces/PickUpInterface.h"
 
 #define ECC_Interact ECC_GameTraceChannel1
 
@@ -20,11 +21,10 @@ ASchemeActor::ASchemeActor()
 	RootComponent = SceneComponent;
 }
 
-void ASchemeActor::PickUpItem(FInventoryElement& InventoryElement)
+void ASchemeActor::PickUpItem(FInventoryElement* InventoryElement)
 {
-	UE_LOG(LogSchemeActor, Warning, TEXT("ClassName - %s"), *ActorName.ToString());
-	InventoryElement.ElementClass = GetClass();
-	InventoryElement.ElementName = ActorName;
+	InventoryElement->ElementClass = GetClass();
+	InventoryElement->ElementName = ActorName;
 	Destroy();
 }
 

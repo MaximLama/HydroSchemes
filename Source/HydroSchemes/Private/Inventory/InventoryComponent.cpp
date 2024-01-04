@@ -2,7 +2,7 @@
 
 
 #include "Inventory/InventoryComponent.h"
-#include "Inventory/InventoryElement.h"
+#include "HSActors/SchemeActor.h"
 
 // Sets default values for this component's properties
 UInventoryComponent::UInventoryComponent()
