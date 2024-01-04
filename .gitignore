@@ -1,0 +1,11 @@
+.vs/
+*.sln
+.vsconfig
+DerivedDataCache/
+Binaries/
+Build/
+enc_temp_folder/
+Intermediate/
+Platforms/
+Saved/
+
