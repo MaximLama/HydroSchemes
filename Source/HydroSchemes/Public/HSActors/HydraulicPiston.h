@@ -42,4 +42,5 @@ private:
 public:
 	AHydraulicPiston();
 	virtual void Tick(float DeltaTime) override;
+	virtual void OnSetOutputPressureAfter(FString SocketName, float Pressure) override;
 };

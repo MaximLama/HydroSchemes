@@ -186,6 +186,7 @@ void ABoardSchemeActor::SetOutputPressure(FString SocketName, float Pressure)
 	auto Socket = SocketOutputs.Find(SocketName);
 	Socket->Pressure = Pressure;
 	Socket->bOutMode = true;
+	OnSetOutputPressureAfter(SocketName, Pressure);
 	//if (Socket->RelatedActorData.RelatedActor && !Socket->RelatedActorData.RelatedActorSocket.IsEmpty()) {
 	//	Socket->RelatedActorData.RelatedActor->SetInputPressure(Socket->RelatedActorData.RelatedActorSocket, Pressure);
 	//}
@@ -226,6 +227,9 @@ void ABoardSchemeActor::BFS(FString StartSocketName)
 
 	//Получаем текущее давление
 	float CurrentPressure = FirstSocketOutput->Pressure;
+	//if (FirstSocketOutput->Pressure > 0.f && !FirstSocketOutput->bOutMode) {
+	//	OnSetInputPressureAfter(StartSocketName, FirstSocketOutput->Pressure);
+	//}
 
 	//Добавляем в множество и очередь первый сокет
 	FRelatedActorData FirstActorData(this, StartSocketName);

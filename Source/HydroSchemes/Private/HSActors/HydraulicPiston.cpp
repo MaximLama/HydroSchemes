@@ -192,3 +192,8 @@ void AHydraulicPiston::Tick(float DeltaTime)
 		}
 	}
 }
+
+void AHydraulicPiston::OnSetOutputPressureAfter(FString SocketName, float Pressure)
+{
+	CurrentScheme = SocketRelationsSchemes[0];
+}
