@@ -183,10 +183,14 @@ void ABoardSchemeActor::ReleaseSocketOutputByName(FName SocketName)
 
 void ABoardSchemeActor::SetOutputPressure(FString SocketName, float Pressure)
 {
+	UE_LOG(LogTemp, Warning, TEXT("Start SetOutputPressure for %s"), *GetName());
+	UE_LOG(LogTemp, Warning, TEXT("SocketName - %s"), *SocketName);
+	UE_LOG(LogTemp, Warning, TEXT("Pressure - %f"), Pressure);
 	auto Socket = SocketOutputs.Find(SocketName);
 	Socket->Pressure = Pressure;
 	Socket->bOutMode = true;
 	OnSetOutputPressureAfter(SocketName, Pressure);
+	UE_LOG(LogTemp, Warning, TEXT("End SetOutputPressure for %s"), *GetName());
 	//if (Socket->RelatedActorData.RelatedActor && !Socket->RelatedActorData.RelatedActorSocket.IsEmpty()) {
 	//	Socket->RelatedActorData.RelatedActor->SetInputPressure(Socket->RelatedActorData.RelatedActorSocket, Pressure);
 	//}
@@ -194,10 +198,14 @@ void ABoardSchemeActor::SetOutputPressure(FString SocketName, float Pressure)
 
 void ABoardSchemeActor::SetInputPressure(FString SocketName, float Pressure)
 {
+	UE_LOG(LogTemp, Warning, TEXT("Start SetInputPressure for %s"), *GetName());
+	UE_LOG(LogTemp, Warning, TEXT("SocketName - %s"), *SocketName);
+	UE_LOG(LogTemp, Warning, TEXT("Pressure - %f"), Pressure);
 	auto Socket = SocketOutputs.Find(SocketName);
 	Socket->Pressure = Pressure;
 	Socket->bOutMode = false;
 	OnSetInputPressureAfter(SocketName, Pressure);
+	UE_LOG(LogTemp, Warning, TEXT("End SetInputPressure for %s"), *GetName());
 }
 
 void ABoardSchemeActor::OnSetOutputPressureAfter(FString SocketName, float Pressure)
@@ -217,7 +225,8 @@ void ABoardSchemeActor::SetSocketRelatedActor(FString ThisSocketName, ABoardSche
 
 void ABoardSchemeActor::BFS(FString StartSocketName)
 {
-
+	UE_LOG(LogTemp, Warning, TEXT("Start BFS"));
+	UE_LOG(LogTemp, Warning, TEXT("StartSocketName - %s"), *StartSocketName);
 	// Получаем стартовый сокет, с которого начнется поиск в ширину
 	FBoardActorOutput* FirstSocketOutput = SocketOutputs.Find(StartSocketName);
 	if(!FirstSocketOutput) return;
@@ -227,12 +236,15 @@ void ABoardSchemeActor::BFS(FString StartSocketName)
 
 	//Получаем текущее давление
 	float CurrentPressure = FirstSocketOutput->Pressure;
-	//if (FirstSocketOutput->Pressure > 0.f && !FirstSocketOutput->bOutMode) {
-	//	OnSetInputPressureAfter(StartSocketName, FirstSocketOutput->Pressure);
-	//}
+	UE_LOG(LogTemp, Warning, TEXT("Current Pressure - %f"), CurrentPressure);
+	UE_LOG(LogTemp, Warning, TEXT("FirstSocketOutput mode - %i"), FirstSocketOutput->bOutMode);
+	if (FirstSocketOutput->Pressure > 0.f && !FirstSocketOutput->bOutMode) {
+		OnSetInputPressureAfter(StartSocketName, FirstSocketOutput->Pressure);
+	}
 
 	//Добавляем в множество и очередь первый сокет
 	FRelatedActorData FirstActorData(this, StartSocketName);
+	UE_LOG(LogTemp, Warning, TEXT("FirstActorData - %s"), *FirstActorData.ToString());
 	Visited.Add(FirstActorData);
 	Queue.Enqueue(FirstActorData);
 
@@ -243,21 +255,27 @@ void ABoardSchemeActor::BFS(FString StartSocketName)
 			//получаем первый сокет из очереди
 			FRelatedActorData CurrentActorData;
 			Queue.Dequeue(CurrentActorData);
+			UE_LOG(LogTemp, Warning, TEXT("CurrentActorData - %s"), *CurrentActorData.ToString());
 			//получаем полную информацию по сокету
 			FBoardActorOutput* CurrentSocketOutput = CurrentActorData.RelatedActor->SocketOutputs.Find(CurrentActorData.RelatedActorSocket);
 			if (!CurrentSocketOutput) continue;
 			//если сокет выходной
-			if (CurrentSocketOutput->bOutMode) {
+			UE_LOG(LogTemp, Warning, TEXT("CurrentSocketOutput - %s"), *CurrentSocketOutput->ToString());
+			if (CurrentSocketOutput->bOutMode) {				
 				//проверяем на наличие связанного сокета
 				if (!CurrentSocketOutput->RelatedActorData.IsValid()) continue;
 				//проверяем, что связанный сокет не был посещен
 				if (Visited.Contains(CurrentSocketOutput->RelatedActorData)) continue;
 				Visited.Add(CurrentSocketOutput->RelatedActorData);
 				AHydraulicPump* Pump = Cast<AHydraulicPump>(CurrentSocketOutput->RelatedActorData.RelatedActor);
-				if (Pump) continue;
+				if (Pump) {
+					UE_LOG(LogTemp, Warning, TEXT("Pump detected - %s"), *Pump->GetName());
+					continue;
+				}
 				//получаем полную информацию по связанному сокету
 				FBoardActorOutput* TargetSocketOutput = CurrentSocketOutput->RelatedActorData.RelatedActor->SocketOutputs.Find(CurrentSocketOutput->RelatedActorData.RelatedActorSocket);
 				if (!TargetSocketOutput) continue;
+				UE_LOG(LogTemp, Warning, TEXT("TargetSocketOutput - %s"), *TargetSocketOutput->ToString());
 				if (TargetSocketOutput->Pressure > 0.f) continue;
 				//подаем давление на связанный сокет
 				CurrentSocketOutput->RelatedActorData.RelatedActor->SetInputPressure(CurrentSocketOutput->RelatedActorData.RelatedActorSocket, CurrentPressure);
@@ -267,15 +285,18 @@ void ABoardSchemeActor::BFS(FString StartSocketName)
 			//если сокет входной
 			else {
 				ABoardSchemeActor* TargetActor = CurrentActorData.RelatedActor;
-				
+				UE_LOG(LogTemp, Warning, TEXT("TargetActor - %s"), *TargetActor->GetName());
 				//проверяем, есть ли у элемента гидросхемы схемы связей сокетов внутри элемента и, если есть, то
 				//проверить, что текущая схема не пустая 
 				if (TargetActor->SocketRelationsSchemes.Num() && TargetActor->CurrentScheme.SocketRelationsScheme.Num()) {
+					UE_LOG(LogTemp, Warning, TEXT("TargetActor's current scheme - %s"), *TargetActor->CurrentScheme.ToString());
 					//получаем связи с сокетом текущего объекта гидросхемы
 					FSocketRelations* TargetSocketRelations = TargetActor->CurrentScheme.SocketRelationsScheme.Find(CurrentActorData.RelatedActorSocket);
 					if (TargetSocketRelations && TargetSocketRelations->SocketRelations.Num()) {
+						UE_LOG(LogTemp, Warning, TEXT("TargetSocketRelations - %s"), *TargetSocketRelations->ToString());
 						//проход по всем связанным сокетам
 						for (FString SocketName : TargetSocketRelations->SocketRelations) {
+							UE_LOG(LogTemp, Warning, TEXT("start Iteration - %s"), *SocketName);
 							FRelatedActorData TargetActorData(TargetActor, SocketName);
 							// пропустить сокет, если посещали
 							if (Visited.Contains(TargetActorData)) continue;
@@ -283,12 +304,14 @@ void ABoardSchemeActor::BFS(FString StartSocketName)
 							Visited.Add(TargetActorData);
 							// получить полную информацию по связанному сокету
 							FBoardActorOutput* OutSocket = TargetActor->SocketOutputs.Find(SocketName);
+							UE_LOG(LogTemp, Warning, TEXT("OutSocket - %s"), *OutSocket->ToString());
 							// проверяем что связанный сокет существует и не является входным
 							if (OutSocket && !OutSocket->Pressure) {
 								//подаем добавление и добавляем в очередь
 								TargetActor->SetOutputPressure(SocketName, CurrentPressure);
 								Queue.Enqueue(TargetActorData);
 							}
+							UE_LOG(LogTemp, Warning, TEXT("end Iteration - %s"), *SocketName);
 						}
 					}
 				}
@@ -298,22 +321,29 @@ void ABoardSchemeActor::BFS(FString StartSocketName)
 	else {
 		FRelatedActorData CurrentActorData;
 		Queue.Dequeue(CurrentActorData);
+		UE_LOG(LogTemp, Warning, TEXT("CurrentActorData - %s"), *CurrentActorData.ToString());
 		FRelatedActorData InputPressureData = FindSocketWithPressure(CurrentActorData);
+		UE_LOG(LogTemp, Warning, TEXT("InputPressureData - %s"), *InputPressureData.ToString());
 		if (InputPressureData.IsValid()) {
 			InputPressureData.RelatedActor->BFS(InputPressureData.RelatedActorSocket);
 		}
 	}
+
+	UE_LOG(LogTemp, Warning, TEXT("End BFS"));
 }
 
 FRelatedActorData ABoardSchemeActor::FindSocketWithPressure(const FRelatedActorData& StartRelatedData)
 {
+	UE_LOG(LogTemp, Warning, TEXT("Start FindSocketWithPressure for %s"), *GetName());
 	TSet<FRelatedActorData> Visited;
 	TQueue<FRelatedActorData> Queue;
 
 	Visited.Add(StartRelatedData);
 	
 	ABoardSchemeActor* StartActor = StartRelatedData.RelatedActor;
+	UE_LOG(LogTemp, Warning, TEXT("StartActor - %s"), *StartActor->GetName());
 	FBoardActorOutput* StartSocketOutput = StartActor->SocketOutputs.Find(StartRelatedData.RelatedActorSocket);
+	UE_LOG(LogTemp, Warning, TEXT("StartSocketOutput - %s"), *StartSocketOutput->ToString());
 	if (StartSocketOutput) {
 		if (StartSocketOutput->bOutMode) {
 			FRelatedActorData RequiredActorData = FindInputActorDataWithPressure(StartActor, StartRelatedData.RelatedActorSocket, Visited, Queue);
@@ -416,6 +446,7 @@ void ABoardSchemeActor::CheckPressure()
 	// in = 0 - ничего не делать
 	// out = 0 - ничего не делать
 
+	// in = 0 in = 0 - запустить bfs так как это может быть новый элемент
 	// in > 0 in > 0 - ничего не делать 
 	// in > 0 in = 0 - запустить bfs с 1 in
 	// out > 0 out > 0 - найти источник питания для первого
@@ -426,14 +457,30 @@ void ABoardSchemeActor::CheckPressure()
 	// in = 0 out = 0 - ничего не делать
 
 	TSet<FString> Visited;
+	UE_LOG(LogTemp, Warning, TEXT("Start CheckPressure for %s"), *GetName());
+	UE_LOG(LogTemp, Warning, TEXT("CurrentScheme - %s"), *CurrentScheme.ToString());
 	for (TPair<FString, FSocketRelations> SocketRelation : CurrentScheme.SocketRelationsScheme) {
+		UE_LOG(LogTemp, Warning, TEXT("Iteration: SocketRelation: Key - %s, Value - %s"), *SocketRelation.Key, *SocketRelation.Value.ToString());
 		if (Visited.Contains(SocketRelation.Key)) continue;
 		Visited.Add(SocketRelation.Key);
+		
 		FBoardActorOutput* FirstSocketOutput = SocketOutputs.Find(SocketRelation.Key);
 		if (!FirstSocketOutput) continue;
 		for (FString SocketName : SocketRelation.Value.SocketRelations) {
+			UE_LOG(LogTemp, Warning, TEXT("Subiteration - %s"), *SocketName);
 			Visited.Add(SocketName);
 			FBoardActorOutput* SecondSocketOutput = SocketOutputs.Find(SocketName);
+			UE_LOG(LogTemp, Warning, TEXT("FirstSocketOutput: Mode - %i, Pressure - %f; SecondSocketOutput: Mode - %i, Pressure - %f"), FirstSocketOutput->bOutMode, FirstSocketOutput->Pressure, SecondSocketOutput->bOutMode, SecondSocketOutput->Pressure);
+			// in = 0 in = 0
+			if ((!FirstSocketOutput->bOutMode && FirstSocketOutput->Pressure == 0.0f) && (!SecondSocketOutput->bOutMode && SecondSocketOutput->Pressure == 0.0f)) {
+				SetOutputPressure(SocketRelation.Key, 0.f);
+				BFS(SocketRelation.Key);
+				if (FirstSocketOutput->Pressure == 0.f) {
+					SetOutputPressure(SocketName, 0.f);
+					BFS(SocketName);
+				}
+				continue;
+			}
 			// in > 0 in = 0
 			if ((!FirstSocketOutput->bOutMode && FirstSocketOutput->Pressure > 0.f) && (!SecondSocketOutput->bOutMode && SecondSocketOutput->Pressure == 0.f)) {
 				BFS(SocketRelation.Key);
@@ -492,13 +539,16 @@ void ABoardSchemeActor::CheckPressure()
 			}
 		}
 	}
+	UE_LOG(LogTemp, Warning, TEXT("Single CheckPressure for %s"), *GetName());
 	for (TPair<FString, FBoardActorOutput>& SocketOutput : SocketOutputs) {
+		UE_LOG(LogTemp, Warning, TEXT("Single Iterate: SocketOutput - %s: %s"), *SocketOutput.Key, *SocketOutput.Value.ToString());
 		if (Visited.Contains(SocketOutput.Key)) continue;
 		if (SocketOutput.Value.bOutMode && SocketOutput.Value.Pressure > 0.f) {
 			SetOutputPressure(SocketOutput.Key, 0.f);
 			BFS(SocketOutput.Key);
 		}
 	}
+	UE_LOG(LogTemp, Warning, TEXT("End CheckPressure for %s"), *GetName());
 }
 
 void ABoardSchemeActor::SocketBroadcast()
@@ -506,4 +556,23 @@ void ABoardSchemeActor::SocketBroadcast()
 	for (TPair<FString, FBoardActorOutput>& Socket : SocketOutputs) {
 		Socket.Value.Delegate.Broadcast();
 	}
+}
+
+FString ABoardSchemeActor::PrintSocketOutputs()
+{
+	FString Result;
+	for (TPair<FString, FBoardActorOutput> SocketOutput : SocketOutputs) {
+		Result += SocketOutput.Key + ": {\n" + SocketOutput.Value.ToString() + "}\n";
+	}
+	return Result;
+}
+
+
+FString FRelatedActorData::ToString() {
+	FString Result;
+	Result += "RelatedActor: ";
+	Result += RelatedActor ? RelatedActor->GetName() : "null";
+	Result += "\n";
+	Result += "RelatedActorSocket: " + RelatedActorSocket;
+	return Result;
 }
