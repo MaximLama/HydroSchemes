@@ -38,13 +38,37 @@ AHydraulicLock::AHydraulicLock()
 
 void AHydraulicLock::OnSetInputPressureAfter(FString SocketName, float Pressure)
 {
+	UE_LOG(LogTemp, Warning, TEXT("Start OnSetInputPressureAfter for %s"), *GetName());
+	UE_LOG(LogTemp, Warning, TEXT("SocketName - %s"), *SocketName);
+	UE_LOG(LogTemp, Warning, TEXT("Socket pressure - %d"), Pressure);
 	if (SocketName == "X") {
 		FBoardActorOutput* XSocketOutput = SocketOutputs.Find("X");
+		UE_LOG(LogTemp, Warning, TEXT("Old XSocketPressure - %d"), XSocketOutput->Pressure);
 		bool isPressureSaved = (XSocketOutput->Pressure == Pressure);
 		CurrentScheme = (Pressure > 0) ? SocketRelationsSchemes[1] : SocketRelationsSchemes[0];
+		UE_LOG(LogTemp, Warning, TEXT("CurrentScheme - %s"), *CurrentScheme.ToString());
 		SocketBroadcast();
 		if (!isPressureSaved) {
 			CheckPressure();
 		}
 	}
+	UE_LOG(LogTemp, Warning, TEXT("End OnSetInputPressureAfter for %s"), *GetName());
+}
+
+void AHydraulicLock::OnSetOutputPressureAfter(FString SocketName, float Pressure) {
+	UE_LOG(LogTemp, Warning, TEXT("Start OnSetOutputPressureAfter for %s"), *GetName());
+	UE_LOG(LogTemp, Warning, TEXT("SocketName - %s"), *SocketName);
+	UE_LOG(LogTemp, Warning, TEXT("Socket pressure - %d"), Pressure);
+	if (SocketName == "X") {
+		FBoardActorOutput* XSocketOutput = SocketOutputs.Find("X");
+		UE_LOG(LogTemp, Warning, TEXT("Old XSocketPressure - %d"), XSocketOutput->Pressure);
+		bool isPressureSaved = (XSocketOutput->Pressure == Pressure);
+		CurrentScheme = (Pressure > 0) ? SocketRelationsSchemes[1] : SocketRelationsSchemes[0];
+		UE_LOG(LogTemp, Warning, TEXT("CurrentScheme - %s"), *CurrentScheme.ToString());
+		SocketBroadcast();
+		if (!isPressureSaved) {
+			CheckPressure();
+		}
+	}
+	UE_LOG(LogTemp, Warning, TEXT("End OnSetOutputPressureAfter for %s"), *GetName());
 }

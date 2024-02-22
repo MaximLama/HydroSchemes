@@ -10,6 +10,7 @@
 DECLARE_MULTICAST_DELEGATE(FSocketDelegate)
 
 class ACable;
+class ABoardSchemeActor;
 
 USTRUCT(BlueprintType)
 struct FRelatedActorData
@@ -44,6 +45,8 @@ public:
 		HashCombine(Hash, GetTypeHash(Other.RelatedActorSocket));
 		return Hash;
 	}
+
+	FString ToString();
 };
 
 USTRUCT(BlueprintType)
@@ -68,6 +71,20 @@ public:
 	bool bOutMode = false;
 
 	FSocketDelegate Delegate;
+
+	FString ToString() {
+		FString Result;
+		Result += "Name: " + OutputName.ToString() + "\n";
+		Result += "bIsEmployed: ";
+		Result += bIsEmployed ? "true" : "false";
+		Result += "\n";
+		Result += "Pressure: " + FString::SanitizeFloat(Pressure) + "\n";
+		Result += "RelatedActorData: {\n" + RelatedActorData.ToString() + "}\n";
+		Result += "bOutMode: ";
+		Result += bOutMode ? "true" : "false";
+		Result += "\n";
+		return Result;
+	}
 };
 
 USTRUCT()
@@ -77,6 +94,14 @@ struct FSocketRelations
 
 public:
 	TArray<FString> SocketRelations;
+
+	FString ToString() {
+		FString Result;
+		for (FString SocketRelation : SocketRelations) {
+			Result += SocketRelation + " ";
+		}
+		return Result;
+	}
 };
 
 USTRUCT()
@@ -86,6 +111,14 @@ struct FSocketRelationsScheme
 
 public:
 	TMap<FString, FSocketRelations> SocketRelationsScheme;
+
+	FString ToString() {
+		FString Result = "SocketRelationScheme - Output\n----------\n";
+		for (TPair<FString, FSocketRelations> SocketRelation : SocketRelationsScheme) {
+			Result += SocketRelation.Key + " - " + SocketRelation.Value.ToString() + "\n";
+		}
+		return Result;
+	}
 };
 
 /**
@@ -140,4 +173,5 @@ public:
 	FRelatedActorData FindSocketWithPressureQueueCycle(TQueue<FRelatedActorData>& Queue, TSet<FRelatedActorData>& Visited, bool bCheckOutput = false);
 	void CheckPressure();
 	void SocketBroadcast();
+	FString PrintSocketOutputs();
 };

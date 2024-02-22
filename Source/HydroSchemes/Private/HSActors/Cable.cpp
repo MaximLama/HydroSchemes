@@ -8,6 +8,7 @@
 #include "HSActors/BoardSchemeActor.h"
 #include "Player/HUBaseCharacter.h"
 #include "Engine/Engine.h"
+#include "HSActors/HydraulicPump.h"
 
 #define INTERACT ECC_GameTraceChannel1
 
@@ -184,6 +185,10 @@ void ACable::PlaceElement(AHUBaseCharacter* Character)
 					RightParentActor->EmploySocketOutputByName(CableActor->CableRightAttachSocketName);
 					RightParentActor->SetSocketRelatedActor(CableActor->CableRightAttachSocketName.ToString(), LeftParentActor, CableActor->GetAttachParentSocketName().ToString());
 					Character->DestroyHolo();
+					if (!Cast<AHydraulicPump>(LeftParentActor))
+						LeftParentActor->CheckPressure();
+					else if (!Cast<AHydraulicPump>(RightParentActor))
+						RightParentActor->CheckPressure();
 				}
 			}
 		}

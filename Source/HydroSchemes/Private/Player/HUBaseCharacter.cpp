@@ -144,6 +144,9 @@ void AHUBaseCharacter::SpawnActorInHand(const FInventoryElement& InventoryElemen
 		PlacingElement->DisableCollision();
 		PlacingElement->AttachToCharacter(this, FAttachmentTransformRules::SnapToTargetNotIncludingScale, PlacingElementAttachSocketName);
 	}
+	if(Holo && !Holo->IsActorBeingDestroyed()) {
+		DestroyHolo();
+	}
 }
 
 void AHUBaseCharacter::ShowHolo()

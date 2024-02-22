@@ -56,5 +56,7 @@ void AHydraulicDistributorScheme574::ChangeState()
 {
 	CurrentScheme = SocketRelationsSchemes[LeverBox->GetStateIndex()];
 	SocketBroadcast();
+	UE_LOG(LogTemp, Warning, TEXT("Start ChangeState for %s"), *GetName());
 	CheckPressure();
+	UE_LOG(LogTemp, Warning, TEXT("End ChangeState for %s"), *GetName());
 }

@@ -22,4 +22,5 @@ private:
 public:
 	AHydraulicLock();
 	virtual void OnSetInputPressureAfter(FString SocketName, float Pressure) override;
+	virtual void OnSetOutputPressureAfter(FString SocketName, float Pressure) override;
 };

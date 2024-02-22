@@ -113,8 +113,12 @@ void AHydraulicPiston::UpdateState()
 
 void AHydraulicPiston::OnSetInputPressureAfter(FString SocketName, float Pressure)
 {
+	UE_LOG(LogTemp, Warning, TEXT("Start OnSetInputPressureAfter for %s"), *GetName());
+	UE_LOG(LogTemp, Warning, TEXT("SocketName - %s"), *SocketName);
+	UE_LOG(LogTemp, Warning, TEXT("Socket pressure - %d"), Pressure);
 	FBoardActorOutput* SocketOutput = SocketOutputs.Find(SocketName);
 	if (SocketOutput) {
+		UE_LOG(LogTemp, Warning, TEXT("SocketOutput: Mode - %i, Pressure - %d"), SocketOutput->bOutMode, SocketOutput->Pressure);
 		if (!SocketOutput->bOutMode && Pressure > 0.f) {
 			CurrentScheme = SocketRelationsSchemes[0];
 			if (CurrentScheme.SocketRelationsScheme.Num()) {
@@ -144,6 +148,9 @@ void AHydraulicPiston::OnSetInputPressureAfter(FString SocketName, float Pressur
 			CurrentScheme = SocketRelationsSchemes[1];
 		}
 	}
+	UE_LOG(LogTemp, Warning, TEXT("CurrentScheme - %s"), *CurrentScheme.ToString());
+	UE_LOG(LogTemp, Warning, TEXT("SocketRelations - %s"), *PrintSocketOutputs());
+	UE_LOG(LogTemp, Warning, TEXT("End OnSetInputPressureAfter for %s"), *GetName());
 }
 
 void AHydraulicPiston::MovePistonIfPossible()
@@ -195,5 +202,8 @@ void AHydraulicPiston::Tick(float DeltaTime)
 
 void AHydraulicPiston::OnSetOutputPressureAfter(FString SocketName, float Pressure)
 {
+	UE_LOG(LogTemp, Warning, TEXT("Start OnSetOutputPressureAfter for %s"), *GetName());
 	CurrentScheme = SocketRelationsSchemes[0];
+	UE_LOG(LogTemp, Warning, TEXT("CurrentScheme - %s"), *CurrentScheme.ToString());
+	UE_LOG(LogTemp, Warning, TEXT("End OnSetOutputPressureAfter for %s"), *GetName());
 }

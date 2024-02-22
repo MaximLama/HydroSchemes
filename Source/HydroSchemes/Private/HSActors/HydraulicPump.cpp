@@ -21,7 +21,9 @@ void AHydraulicPump::ChangeState()
 	TArray<FString> Sockets;
 	SocketOutputs.GetKeys(Sockets);
 	float Pressure = LeverBox->GetStateIndex() ? DefaultPressure : 0;
+	UE_LOG(LogTemp, Warning, TEXT("Change state for %s"), *GetName());
 	for (FString SocketName : Sockets) {
+		UE_LOG(LogTemp, Warning, TEXT("SocketName - %s"), *SocketName);
 		SetOutputPressure(SocketName, Pressure);
 		BFS(SocketName);
 	}
