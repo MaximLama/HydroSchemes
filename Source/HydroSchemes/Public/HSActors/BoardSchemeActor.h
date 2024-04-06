@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "HSActors/SchemeActor.h"
 #include "Misc/HashBuilder.h"
+#include "Utils/SchemeUtil.h"
 #include "BoardSchemeActor.generated.h"
 
 DECLARE_MULTICAST_DELEGATE(FSocketDelegate)
@@ -102,6 +103,10 @@ public:
 		}
 		return Result;
 	}
+
+	bool IsEmpty() const{
+		return SocketRelations.Num() == 0;
+	}
 };
 
 USTRUCT()
@@ -124,7 +129,7 @@ public:
 /**
  * 
  */
-UCLASS()
+UCLASS(Abstract)
 class HYDROSCHEMES_API ABoardSchemeActor : public ASchemeActor
 {
 	GENERATED_BODY()
@@ -138,12 +143,15 @@ public:
 	TObjectPtr<UStaticMeshComponent> StaticMeshComponent;
 	UPROPERTY(EditAnywhere)
 	TMap<FString, FBoardActorOutput> SocketOutputs;
+	FBoardActorOutput* GetSocketInfo(FString SocketName);
+
 	TArray<FSocketRelationsScheme> SocketRelationsSchemes;
 	UPROPERTY(VisibleAnywhere)
 	FSocketRelationsScheme CurrentScheme;
+	bool IsCurrentSchemeEmpty() const;
+	const FSocketRelations* GetCurrentSocketRelations(FString SocketName) const;
 
 	ABoardSchemeActor();
-
 	void InitSize(float CellSize);
 	inline int32 GetWidth() const { return WidthInCell; }
 	inline int32 GetHeight() const { return HeightInCell; }
@@ -166,11 +174,6 @@ public:
 	virtual void OnSetOutputPressureAfter(FString SocketName, float Pressure);
 	virtual void OnSetInputPressureAfter(FString SocketName, float Pressure);
 	void SetSocketRelatedActor(FString ThisSocketName, ABoardSchemeActor* RelatedActor, FString RelatedSocketName);
-	void BFS(FString StartSocketName);
-	FRelatedActorData FindSocketWithPressure(const FRelatedActorData& StartRelatedData);
-	FRelatedActorData FindInputActorDataWithPressure(ABoardSchemeActor* CurrentActor, FString CurrentSocketName, TSet<FRelatedActorData>& Visited, TQueue<FRelatedActorData>& Queue, bool bCheckOutput = false);
-	FRelatedActorData FindOutputActorDataWithPressure(ABoardSchemeActor* TargetActor, FString TargetSocketName, TSet<FRelatedActorData>& Visited, TQueue<FRelatedActorData>& Queue, bool bCheckOutput = false);
-	FRelatedActorData FindSocketWithPressureQueueCycle(TQueue<FRelatedActorData>& Queue, TSet<FRelatedActorData>& Visited, bool bCheckOutput = false);
 	void CheckPressure();
 	void SocketBroadcast();
 	FString PrintSocketOutputs();

@@ -1,0 +1,2146 @@
+{
+	"bindings": [
+		{
+			"actionValues": [],
+			"worldTime": 0
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.016666799783706665
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.24677599966526031
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.32623958587646484
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.35679659247398376
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.37346330285072327
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.39013010263442993
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.40679681301116943
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.42346349358558655
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.44013029336929321
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.45679700374603271
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.47346371412277222
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.49013039469718933
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.50679707527160645
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.52346378564834595
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.54013049602508545
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.55679720640182495
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.57346391677856445
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.59013068675994873
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.60679739713668823
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.62346410751342773
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.64013081789016724
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.65679752826690674
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.67346429824829102
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.69013100862503052
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.70679777860641479
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.7234644889831543
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.7401311993598938
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.75679802894592285
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.77346467971801758
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.79013139009475708
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.80679810047149658
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666702926158905,
+					"elapsedTriggeredTime": 0.016666702926158905,
+					"value":
+					{
+						"x": -1.2599999904632568,
+						"y": 0.2800000011920929,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.82346481084823608
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.033333402127027512,
+					"elapsedTriggeredTime": 0.033333402127027512,
+					"value":
+					{
+						"x": -1.8899999856948853,
+						"y": 0.34999999403953552,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.84013152122497559
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.050000201910734177,
+					"elapsedTriggeredTime": 0.050000201910734177,
+					"value":
+					{
+						"x": -0.9100000262260437,
+						"y": 0.2800000011920929,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.85679829120635986
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.066666901111602783,
+					"elapsedTriggeredTime": 0.066666901111602783,
+					"value":
+					{
+						"x": -0.98000001907348633,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.87346500158309937
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.083333596587181091,
+					"elapsedTriggeredTime": 0.083333596587181091,
+					"value":
+					{
+						"x": -0.98000001907348633,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.89013171195983887
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.10000029951334,
+					"elapsedTriggeredTime": 0.10000029951334,
+					"value":
+					{
+						"x": -0.56000000238418579,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.90679842233657837
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.11666709929704666,
+					"elapsedTriggeredTime": 0.11666709929704666,
+					"value":
+					{
+						"x": -0.49000000953674316,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.92346519231796265
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.13333380222320557,
+					"elapsedTriggeredTime": 0.13333380222320557,
+					"value":
+					{
+						"x": -0.14000000059604645,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.94013190269470215
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.15000049769878387,
+					"elapsedTriggeredTime": 0.15000049769878387,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.95679861307144165
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.97346538305282593
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666799783706665,
+					"elapsedTriggeredTime": 0.016666799783706665,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 0.99013221263885498
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0067988634109497
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666799783706665,
+					"elapsedTriggeredTime": 0.016666799783706665,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.0234657526016235
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0401324033737183
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666799783706665,
+					"elapsedTriggeredTime": 0.016666799783706665,
+					"value":
+					{
+						"x": -0.42000001668930054,
+						"y": 0.21000000834465027,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.0567991733551025
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.033333498984575272,
+					"elapsedTriggeredTime": 0.033333498984575272,
+					"value":
+					{
+						"x": -0.42000001668930054,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.0734659433364868
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666699200868607,
+					"elapsedTriggeredTime": 0.016666699200868607,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.050000198185443878,
+					"elapsedTriggeredTime": 0.050000198185443878,
+					"value":
+					{
+						"x": -0.69999998807907104,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.0901325941085815
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.033333398401737213,
+					"elapsedTriggeredTime": 0.033333398401737213,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.066666901111602783,
+					"elapsedTriggeredTime": 0.066666901111602783,
+					"value":
+					{
+						"x": -0.56000000238418579,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.1067992448806763
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.050000101327896118,
+					"elapsedTriggeredTime": 0.050000101327896118,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.083333604037761688,
+					"elapsedTriggeredTime": 0.083333604037761688,
+					"value":
+					{
+						"x": -0.49000000953674316,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.1234660148620605
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.066666796803474426,
+					"elapsedTriggeredTime": 0.066666796803474426,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.10000030696392059,
+					"elapsedTriggeredTime": 0.10000030696392059,
+					"value":
+					{
+						"x": -0.69999998807907104,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.1401326656341553
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.083333596587181091,
+					"elapsedTriggeredTime": 0.083333596587181091,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.11666710674762726,
+					"elapsedTriggeredTime": 0.11666710674762726,
+					"value":
+					{
+						"x": -0.2800000011920929,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.1567995548248291
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.10000039637088776,
+					"elapsedTriggeredTime": 0.10000039637088776,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.13333390653133392,
+					"elapsedTriggeredTime": 0.13333390653133392,
+					"value":
+					{
+						"x": -0.42000001668930054,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.1734663248062134
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.11666709184646606,
+					"elapsedTriggeredTime": 0.11666709184646606,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.15000060200691223,
+					"elapsedTriggeredTime": 0.15000060200691223,
+					"value":
+					{
+						"x": -0.21000000834465027,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.1901329755783081
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.13333378732204437,
+					"elapsedTriggeredTime": 0.13333378732204437,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.16666729748249054,
+					"elapsedTriggeredTime": 0.16666729748249054,
+					"value":
+					{
+						"x": -0.14000000059604645,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.2067997455596924
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.15000048279762268,
+					"elapsedTriggeredTime": 0.15000048279762268,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.18333399295806885,
+					"elapsedTriggeredTime": 0.18333399295806885,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.2234663963317871
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.16666717827320099,
+					"elapsedTriggeredTime": 0.16666717827320099,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.2401330471038818
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.1833338737487793,
+					"elapsedTriggeredTime": 0.1833338737487793,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666699200868607,
+					"elapsedTriggeredTime": 0.016666699200868607,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.2567998170852661
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.2000005692243576,
+					"elapsedTriggeredTime": 0.2000005692243576,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.2734664678573608
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.21666726469993591,
+					"elapsedTriggeredTime": 0.21666726469993591,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.2901332378387451
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.23333406448364258,
+					"elapsedTriggeredTime": 0.23333406448364258,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666799783706665,
+					"elapsedTriggeredTime": 0.016666799783706665,
+					"value":
+					{
+						"x": 0.070000000298023224,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.3068000078201294
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.25000077486038208,
+					"elapsedTriggeredTime": 0.25000077486038208,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.03333350270986557,
+					"elapsedTriggeredTime": 0.03333350270986557,
+					"value":
+					{
+						"x": 0.21000000834465027,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.3234666585922241
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.26666748523712158,
+					"elapsedTriggeredTime": 0.26666748523712158,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.050000201910734177,
+					"elapsedTriggeredTime": 0.050000201910734177,
+					"value":
+					{
+						"x": 1.4700000286102295,
+						"y": -0.34999999403953552,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.3401334285736084
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.28333428502082825,
+					"elapsedTriggeredTime": 0.28333428502082825,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.06666700541973114,
+					"elapsedTriggeredTime": 0.06666700541973114,
+					"value":
+					{
+						"x": 1.6100000143051147,
+						"y": -0.34999999403953552,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.3568001985549927
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.30000099539756775,
+					"elapsedTriggeredTime": 0.30000099539756775,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.083333700895309448,
+					"elapsedTriggeredTime": 0.083333700895309448,
+					"value":
+					{
+						"x": 1.9600000381469727,
+						"y": -0.42000001668930054,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.3734668493270874
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.31666770577430725,
+					"elapsedTriggeredTime": 0.31666770577430725,
+					"value":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.10000039637088776,
+					"elapsedTriggeredTime": 0.10000039637088776,
+					"value":
+					{
+						"x": 2.8700001239776611,
+						"y": -0.49000000953674316,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.3901336193084717
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.33333450555801392,
+					"elapsedTriggeredTime": 0.33333450555801392,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.11666719615459442,
+					"elapsedTriggeredTime": 0.11666719615459442,
+					"value":
+					{
+						"x": 1.4700000286102295,
+						"y": -0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.406800389289856
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.35000130534172058,
+					"elapsedTriggeredTime": 0.35000130534172058,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.13333399593830109,
+					"elapsedTriggeredTime": 0.13333399593830109,
+					"value":
+					{
+						"x": 1.6800000667572021,
+						"y": -0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.4234671592712402
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.36666810512542725,
+					"elapsedTriggeredTime": 0.36666810512542725,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.15000079572200775,
+					"elapsedTriggeredTime": 0.15000079572200775,
+					"value":
+					{
+						"x": 0.84000003337860107,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.4401340484619141
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.38333481550216675,
+					"elapsedTriggeredTime": 0.38333481550216675,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.16666749119758606,
+					"elapsedTriggeredTime": 0.16666749119758606,
+					"value":
+					{
+						"x": 0.76999998092651367,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.4568006992340088
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.40000152587890625,
+					"elapsedTriggeredTime": 0.40000152587890625,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.18333418667316437,
+					"elapsedTriggeredTime": 0.18333418667316437,
+					"value":
+					{
+						"x": 1.190000057220459,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.4734673500061035
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.41666823625564575,
+					"elapsedTriggeredTime": 0.41666823625564575,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.20000088214874268,
+					"elapsedTriggeredTime": 0.20000088214874268,
+					"value":
+					{
+						"x": 0.84000003337860107,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.4901341199874878
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.43333494663238525,
+					"elapsedTriggeredTime": 0.43333494663238525,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.21666757762432098,
+					"elapsedTriggeredTime": 0.21666757762432098,
+					"value":
+					{
+						"x": 1.4700000286102295,
+						"y": 0.21000000834465027,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.5068007707595825
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.45000174641609192,
+					"elapsedTriggeredTime": 0.45000174641609192,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.23333437740802765,
+					"elapsedTriggeredTime": 0.23333437740802765,
+					"value":
+					{
+						"x": 1.0499999523162842,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.5234675407409668
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.46666845679283142,
+					"elapsedTriggeredTime": 0.46666845679283142,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.25000107288360596,
+					"elapsedTriggeredTime": 0.25000107288360596,
+					"value":
+					{
+						"x": 0.9100000262260437,
+						"y": 0.21000000834465027,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.5401343107223511
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.48333516716957092,
+					"elapsedTriggeredTime": 0.48333516716957092,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.26666778326034546,
+					"elapsedTriggeredTime": 0.26666778326034546,
+					"value":
+					{
+						"x": 1.2599999904632568,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.5568009614944458
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.50000196695327759,
+					"elapsedTriggeredTime": 0.50000196695327759,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.28333458304405212,
+					"elapsedTriggeredTime": 0.28333458304405212,
+					"value":
+					{
+						"x": 0.42000001668930054,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.5734678506851196
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.51666867733001709,
+					"elapsedTriggeredTime": 0.51666867733001709,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.30000129342079163,
+					"elapsedTriggeredTime": 0.30000129342079163,
+					"value":
+					{
+						"x": 0.42000001668930054,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.5901345014572144
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.53333538770675659,
+					"elapsedTriggeredTime": 0.53333538770675659,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.31666800379753113,
+					"elapsedTriggeredTime": 0.31666800379753113,
+					"value":
+					{
+						"x": 0.070000000298023224,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.6068011522293091
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.55000209808349609,
+					"elapsedTriggeredTime": 0.55000209808349609,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.6234679222106934
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.5666688084602356,
+					"elapsedTriggeredTime": 0.5666688084602356,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666699200868607,
+					"elapsedTriggeredTime": 0.016666699200868607,
+					"value":
+					{
+						"x": 0.070000000298023224,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.6401345729827881
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.58333563804626465,
+					"elapsedTriggeredTime": 0.58333563804626465,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.6568014621734619
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.60000234842300415,
+					"elapsedTriggeredTime": 0.60000234842300415,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.6734681129455566
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.61666905879974365,
+					"elapsedTriggeredTime": 0.61666905879974365,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.6901347637176514
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.63333582878112793,
+					"elapsedTriggeredTime": 0.63333582878112793,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.7068016529083252
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.65000253915786743,
+					"elapsedTriggeredTime": 0.65000253915786743,
+					"value":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666702926158905,
+					"elapsedTriggeredTime": 0.016666702926158905,
+					"value":
+					{
+						"x": 0,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.7234683036804199
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.66666924953460693,
+					"elapsedTriggeredTime": 0.66666924953460693,
+					"value":
+					{
+						"x": -1,
+						"y": 1,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.033333402127027512,
+					"elapsedTriggeredTime": 0.033333402127027512,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.7401349544525146
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.68333595991134644,
+					"elapsedTriggeredTime": 0.68333595991134644,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.050000101327896118,
+					"elapsedTriggeredTime": 0.050000101327896118,
+					"value":
+					{
+						"x": -0.34999999403953552,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.7568017244338989
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.70000267028808594,
+					"elapsedTriggeredTime": 0.70000267028808594,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.066666796803474426,
+					"elapsedTriggeredTime": 0.066666796803474426,
+					"value":
+					{
+						"x": -0.69999998807907104,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.7734683752059937
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.71666938066482544,
+					"elapsedTriggeredTime": 0.71666938066482544,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.083333492279052734,
+					"elapsedTriggeredTime": 0.083333492279052734,
+					"value":
+					{
+						"x": -0.9100000262260437,
+						"y": 0.2800000011920929,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.7901351451873779
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.73333609104156494,
+					"elapsedTriggeredTime": 0.73333609104156494,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.10000019520521164,
+					"elapsedTriggeredTime": 0.10000019520521164,
+					"value":
+					{
+						"x": -1.8200000524520874,
+						"y": 0.21000000834465027,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.8068017959594727
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.75000280141830444,
+					"elapsedTriggeredTime": 0.75000280141830444,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.11666689813137054,
+					"elapsedTriggeredTime": 0.11666689813137054,
+					"value":
+					{
+						"x": -1.2599999904632568,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.8234684467315674
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.76666951179504395,
+					"elapsedTriggeredTime": 0.76666951179504395,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.13333359360694885,
+					"elapsedTriggeredTime": 0.13333359360694885,
+					"value":
+					{
+						"x": -2.0999999046325684,
+						"y": 0.21000000834465027,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.8401352167129517
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.78333622217178345,
+					"elapsedTriggeredTime": 0.78333622217178345,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.15000028908252716,
+					"elapsedTriggeredTime": 0.15000028908252716,
+					"value":
+					{
+						"x": -1.2599999904632568,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.8568018674850464
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.80000293254852295,
+					"elapsedTriggeredTime": 0.80000293254852295,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.16666698455810547,
+					"elapsedTriggeredTime": 0.16666698455810547,
+					"value":
+					{
+						"x": -1.1200000047683716,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.8734686374664307
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.81666964292526245,
+					"elapsedTriggeredTime": 0.81666964292526245,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.18333368003368378,
+					"elapsedTriggeredTime": 0.18333368003368378,
+					"value":
+					{
+						"x": -1.4700000286102295,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.8901352882385254
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.83333635330200195,
+					"elapsedTriggeredTime": 0.83333635330200195,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.20000037550926208,
+					"elapsedTriggeredTime": 0.20000037550926208,
+					"value":
+					{
+						"x": -0.69999998807907104,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.9068020582199097
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.85000306367874146,
+					"elapsedTriggeredTime": 0.85000306367874146,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.21666707098484039,
+					"elapsedTriggeredTime": 0.21666707098484039,
+					"value":
+					{
+						"x": -0.76999998092651367,
+						"y": 0.14000000059604645,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.9234687089920044
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.86666977405548096,
+					"elapsedTriggeredTime": 0.86666977405548096,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.2333337664604187,
+					"elapsedTriggeredTime": 0.2333337664604187,
+					"value":
+					{
+						"x": -0.21000000834465027,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.9401353597640991
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.88333648443222046,
+					"elapsedTriggeredTime": 0.88333648443222046,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.2500004768371582,
+					"elapsedTriggeredTime": 0.2500004768371582,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.9568021297454834
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Movement",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.90000319480895996,
+					"elapsedTriggeredTime": 0.90000319480895996,
+					"value":
+					{
+						"x": -1,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				},
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.26666718721389771,
+					"elapsedTriggeredTime": 0.26666718721389771,
+					"value":
+					{
+						"x": -0.14000000059604645,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.9734687805175781
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.28333398699760437,
+					"elapsedTriggeredTime": 0.28333398699760437,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 1.9901355504989624
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.30000069737434387,
+					"elapsedTriggeredTime": 0.30000069737434387,
+					"value":
+					{
+						"x": -0.14000000059604645,
+						"y": 0.21000000834465027,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 2.0068023204803467
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.31666740775108337,
+					"elapsedTriggeredTime": 0.31666740775108337,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": 0.070000000298023224,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 2.0234689712524414
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.0401356220245361
+		},
+		{
+			"actionValues": [
+				{
+					"iA_Name": "IA_Looking",
+					"triggerEvent": 1,
+					"elapsedProcessedTime": 0.016666699200868607,
+					"elapsedTriggeredTime": 0.016666699200868607,
+					"value":
+					{
+						"x": -0.070000000298023224,
+						"y": -0,
+						"z": 0
+					},
+					"valueType": 2
+				}
+			],
+			"worldTime": 2.05680251121521
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.0734691619873047
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.0901358127593994
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.1068027019500732
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.123469352722168
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.1401362419128418
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.1568028926849365
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.1734697818756104
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.1901364326477051
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.2068033218383789
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.2234699726104736
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.2401366233825684
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.2568035125732422
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.2734701633453369
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.2901368141174316
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.3068037033081055
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.3234703540802002
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.3401370048522949
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.3568036556243896
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.3734705448150635
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.3901371955871582
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.4068038463592529
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.4234704971313477
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.4401373863220215
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.4568040370941162
+		},
+		{
+			"actionValues": [],
+			"worldTime": 2.4734706878662109
+		}
+	],
+	"initialTransform":
+	{
+		"rotation":
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"w": 1
+		},
+		"translation":
+		{
+			"x": 392.23656791138239,
+			"y": -904.12350544786329,
+			"z": 89.649996906469482
+		},
+		"scale3D":
+		{
+			"x": 1,
+			"y": 1,
+			"z": 1
+		}
+	}
+}

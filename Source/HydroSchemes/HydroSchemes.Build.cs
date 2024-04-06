@@ -8,7 +8,18 @@ public class HydroSchemes : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "UMG", "CableComponent" });
+		PublicDependencyModuleNames.AddRange(new string[] { 
+			"Core", 
+			"CoreUObject", 
+			"Engine", 
+			"InputCore", 
+			"EnhancedInput", 
+			"UMG", 
+			"CableComponent", 
+			"EngineSettings", 
+			"Json",
+			"JsonUtilities"
+		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

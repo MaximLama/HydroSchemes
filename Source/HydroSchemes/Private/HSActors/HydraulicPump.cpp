@@ -25,6 +25,6 @@ void AHydraulicPump::ChangeState()
 	for (FString SocketName : Sockets) {
 		UE_LOG(LogTemp, Warning, TEXT("SocketName - %s"), *SocketName);
 		SetOutputPressure(SocketName, Pressure);
-		BFS(SocketName);
+		SchemeUtil::ScanScheme(this, SocketName);
 	}
 }

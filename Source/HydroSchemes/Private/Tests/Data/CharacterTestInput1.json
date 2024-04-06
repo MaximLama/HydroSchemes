@@ -1,0 +1,7497 @@
+{
+	"bindings": [
+		{
+			"actionValues": [],
+			"worldTime": 0
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.0083333998918533325
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.408333420753479
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.42873421311378479
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.46616831421852112
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.48027831315994263
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.49357122182846069
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.50763881206512451
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.51977682113647461
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.53267210721969604
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.54458987712860107
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.55679458379745483
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.56931549310684204
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.58158451318740845
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.59512609243392944
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.6073753833770752
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.62051570415496826
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.63146233558654785
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.64463609457015991
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.65886151790618896
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.67197829484939575
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.6849365234375
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.69717782735824585
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.70551121234893799
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.71384459733963013
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.72217810153961182
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.73051148653030396
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.73884499073028564
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.74717849493026733
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.75551187992095947
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.76384532451629639
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.77217870950698853
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.78051221370697021
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.7888457179069519
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.79717922210693359
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.80551260709762573
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.81384599208831787
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.82217949628829956
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.83051300048828125
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.83884638547897339
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.8471798300743103
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.85551333427429199
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.86384671926498413
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.87218022346496582
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.88051360845565796
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.8888469934463501
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.89718043804168701
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.90551388263702393
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.91384738683700562
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.92218083143234253
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.93051421642303467
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.93884760141372681
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.9471811056137085
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.95551460981369019
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.96384799480438232
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.97218137979507446
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.98051488399505615
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.98884838819503784
+		},
+		{
+			"actionValues": [],
+			"worldTime": 0.99734658002853394
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0056799650192261
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.014013409614563
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0223468542098999
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0306802988052368
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0390137434005737
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0473471879959106
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0556806325912476
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0640139579772949
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0723474025726318
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0806808471679688
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0890142917633057
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.0973478555679321
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.105681300163269
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.114014744758606
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.1223480701446533
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.1306815147399902
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.1390149593353271
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.1473484039306641
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.155681848526001
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.1640152931213379
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.1723487377166748
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.1806820631027222
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.1890156269073486
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.197348952293396
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2056823968887329
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2140159606933594
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2223494052886963
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2306828498840332
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2390161752700806
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2473496198654175
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2556830644607544
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2640163898468018
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2723498344421387
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.280683159828186
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2890166044235229
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.2973501682281494
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3056834936141968
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3140169382095337
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3223502635955811
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3306838274002075
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3390172719955444
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3473508358001709
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3556841611862183
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3640176057815552
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3723510503768921
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.380684494972229
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3890179395675659
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.3973513841629028
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4056848287582397
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4140181541442871
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4223517179489136
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4306851625442505
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4390184879302979
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4473520517349243
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4556853771209717
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4640189409255981
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4723522663116455
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4806857109069824
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4890191555023193
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.4973527193069458
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5056861639022827
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5140197277069092
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5223531723022461
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.530686616897583
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5390200614929199
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5473535060882568
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5556869506835938
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5640202760696411
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.572353720664978
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5806871652603149
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5890206098556519
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.5973540544509888
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6056874990463257
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6140209436416626
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.62235426902771
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6306877136230469
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6390211582183838
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6473544836044312
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6556879281997681
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6640212535858154
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6723546981811523
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6806881427764893
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6890214681625366
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.6973549127578735
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7056883573532104
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7140216827392578
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7223552465438843
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7306885719299316
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7390220165252686
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7473554611206055
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7556887865066528
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7640223503112793
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7723556756973267
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7806892395019531
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7890225648880005
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.7973560094833374
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8056894540786743
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8140230178833008
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8223564624786377
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8306899070739746
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8390233516693115
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8473566770553589
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8556901216506958
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8640234470367432
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8723568916320801
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.880690336227417
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8890236616134644
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.8973571062088013
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.9056905508041382
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.9140239953994751
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.922357439994812
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.9306908845901489
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.9390243291854858
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.9473576545715332
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.9556910991668701
+		},
+		{
+			"actionValues": [],
+			"worldTime": 1.964024543762207
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 1.9723579883575439
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.010577701032161713,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.010577701032161713,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 1.9829356670379639
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -5,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 1.9912692308425903
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 1.9996025562286377
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0079360008239746
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0162696838378906
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083696991205215454,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083696991205215454,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.024639368057251
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0329728126525879
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -6,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0413060188293457
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0496394634246826
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0579729080200195
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0663065910339355
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0746400356292725
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0829734802246094
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -5,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0913069248199463
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.0996401309967041
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1079738140106201
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.116307258605957
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1246407032012939
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -6,
+						"y": -7,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1329741477966309
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1413075923919678
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1496410369873047
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1579744815826416
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1663079261779785
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1746413707733154
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1829748153686523
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1913082599639893
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.1996417045593262
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2079751491546631
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.21630859375
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2246420383453369
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2329754829406738
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2413089275360107
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2496423721313477
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2579758167266846
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2663090229034424
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2746424674987793
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2829759120941162
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084351971745491028,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084351971745491028,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2914111614227295
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.2997446060180664
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.3080780506134033
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.3164114952087402
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -5,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.324744701385498
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.333078145980835
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.3414115905761719
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008597400039434433,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008597400039434433,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.3500089645385742
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.3583424091339111
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.366675853729248
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -6,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.375009298324585
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.3833427429199219
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.3916761875152588
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -5,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4000093936920166
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4083428382873535
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -9,
+						"y": -5,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4166762828826904
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0088269971311092377,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0088269971311092377,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4255032539367676
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4338366985321045
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4421701431274414
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4505035877227783
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4588370323181152
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -6,
+						"y": -5,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4671704769134521
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4755039215087891
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.483837366104126
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.4921708106994629
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5005042552947998
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5088376998901367
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5171711444854736
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083884000778198242,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083884000778198242,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5255594253540039
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5338928699493408
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5422263145446777
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5505597591400146
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -5,
+						"y": -5,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5588932037353516
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5672266483306885
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5755600929260254
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5838935375213623
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083337984979152679,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083337984979152679,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.5922272205352783
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6005606651306152
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6088941097259521
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083723999559879303,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083723999559879303,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6172666549682617
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6256000995635986
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084528028964996338,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084528028964996338,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6340527534484863
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6423861980438232
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6507196426391602
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0087429024279117584,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0087429024279117584,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6594626903533936
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6677958965301514
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6761293411254883
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6844627857208252
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -3,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.6927962303161621
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -4,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.701129674911499
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7094631195068359
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7177965641021729
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7261300086975098
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083416998386383057,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083416998386383057,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7344715595245361
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0085620991885662079,
+					"inputVector":
+					{
+						"x": -3,
+						"y": -4,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0085620991885662079,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7430336475372314
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0092177987098693848,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0092177987098693848,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0092177987098693848,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7522516250610352
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008566003292798996,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008566003292798996,
+					"inputVector":
+					{
+						"x": -1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008566003292798996,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7608175277709961
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0084756985306739807,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084756985306739807,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084756985306739807,
+					"inputVector":
+					{
+						"x": -1.1944563388824463,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7692933082580566
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083982013165950775,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083982013165950775,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083982013165950775,
+					"inputVector":
+					{
+						"x": -1.1816145181655884,
+						"y": -0.99990004301071167,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7776913642883301
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0086396969854831696,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0086396969854831696,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7863311767578125
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.7946646213531494
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8029980659484863
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8113315105438232
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8196649551391602
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8279983997344971
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -2,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.836331844329834
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8446652889251709
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8529987335205078
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8613321781158447
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8696656227111816
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8779993057250977
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8863325119018555
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.8946659564971924
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.9029994010925293
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.9113328456878662
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0087879002094268799,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0087879002094268799,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0087879002094268799,
+					"inputVector":
+					{
+						"x": 1.9998000860214233,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.9201207160949707
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1.1810078620910645,
+						"y": 0.99990004301071167,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.9284541606903076
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.9367876052856445
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.9451212882995605
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 2.9534547328948975
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.063010096549987793,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.063010096549987793,
+					"inputVector":
+					{
+						"x": 30,
+						"y": 6,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.063010096549987793,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.0164647102355957
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0090221017599105835,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0090221017599105835,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0090221017599105835,
+					"inputVector":
+					{
+						"x": 5.1021218299865723,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.025486946105957
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 4.745699405670166,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.0338203907012939
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0087713003158569336,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0087713003158569336,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0087713003158569336,
+					"inputVector":
+					{
+						"x": 4.9846487045288086,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.0425915718078613
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 4.728541374206543,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.0509250164031982
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 3.5411128997802734,
+						"y": -0.99990004301071167,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.0592584609985352
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 2.3572282791137695,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.0675919055938721
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 3.5307106971740723,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.075925350189209
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 2.369434118270874,
+						"y": -0.99990004301071167,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.0842587947845459
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1.1829681396484375,
+						"y": -1.1829681396484375,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.0925922393798828
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1.1812652349472046,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1009256839752197
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1.1795941591262817,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1092588901519775
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1.1779526472091675,
+						"y": -1.9998000860214233,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1175923347473145
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1.7780852317810059,
+						"y": -0.59269511699676514,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1259257793426514
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1.1837266683578491,
+						"y": -1.1837266683578491,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1342592239379883
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1.1821061372756958,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1425926685333252
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1.1805013418197632,
+						"y": -0.99990004301071167,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1509261131286621
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 2.3578200340270996,
+						"y": -1.1789100170135498,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.159259557723999
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0085310004651546478,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0085310004651546478,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0085310004651546478,
+					"inputVector":
+					{
+						"x": 1.2050302028656006,
+						"y": -1.2050302028656006,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1677906513214111
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1.7762678861618042,
+						"y": -0.59208935499191284,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.176124095916748
+		},
+		{
+			"actionValues": [
+				{
+					"key": "W",
+					"deltaTime": 0.0086707025766372681,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0086707025766372681,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0086707025766372681,
+					"inputVector":
+					{
+						"x": 1.2300543785095215,
+						"y": -1.2300543785095215,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1847946643829346
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1.1806659698486328,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.1931281089782715
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1.1791677474975586,
+						"y": -0.99990004301071167,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2014615535736084
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083388015627861023,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2098004817962646
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 2,
+						"y": -2,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2181339263916016
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0091615989804267883,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2272953987121582
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0086751021444797516,
+					"inputVector":
+					{
+						"x": 1,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0086751021444797516,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2359704971313477
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0091247968375682831,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0091247968375682831,
+					"inputVector":
+					{
+						"x": 1.2884916067123413,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2450954914093018
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0086071006953716278,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0086071006953716278,
+					"inputVector":
+					{
+						"x": 0.61102324724197388,
+						"y": -1.9998000860214233,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2537024021148682
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084941014647483826,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084941014647483826,
+					"inputVector":
+					{
+						"x": 2.4085812568664551,
+						"y": -2.4085812568664551,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2621965408325195
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 2.3600766658782959,
+						"y": -2.3600766658782959,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2705299854278564
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -1.180052638053894,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2788634300231934
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084436982870101929,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084436982870101929,
+					"inputVector":
+					{
+						"x": 0.99990004301071167,
+						"y": -3.5869708061218262,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2873072624206543
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -2.3600766658782959,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.2956407070159912
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 0.99990004301071167,
+						"y": -2.9501314163208008,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3039741516113281
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084524005651473999,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084524005651473999,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -3.590667724609375,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3124265670776367
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0090240016579627991,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0090240016579627991,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -2.5556600093841553,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3214504718780518
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -3.5401151180267334,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3297839164733887
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -2.3600766658782959,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3381173610687256
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": -0.99990004301071167,
+						"y": -2.9501302242279053,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3464508056640625
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -1.1786081790924072,
+						"y": -3.5358247756958008,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3547842502593994
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -5.892970085144043,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3631176948547363
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -0.99990004301071167,
+						"y": -3.5357818603515625,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3714511394500732
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083374008536338806,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083374008536338806,
+					"inputVector":
+					{
+						"x": -1.177733302116394,
+						"y": -4.7109332084655762,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3797883987426758
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084696002304553986,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084696002304553986,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -5.9820380210876465,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3882582187652588
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084864012897014618,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084864012897014618,
+					"inputVector":
+					{
+						"x": -1.9998000860214233,
+						"y": -4.1957330703735352,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.3967444896697998
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": -1.1757831573486328,
+						"y": -4.7031326293945312,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4050779342651367
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -2.3515663146972656,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4134116172790527
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -0.99990004301071167,
+						"y": -3.5273067951202393,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4217448234558105
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083405971527099609,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083405971527099609,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -1.1767843961715698,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4300854206085205
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -0.99990004301071167,
+						"y": -1.7636533975601196,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4384188652038574
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008440602570772171,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008440602570772171,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -1.1908942461013794,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.44685959815979
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4551928043365479
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4635264873504639
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4718596935272217
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": -1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4801933765411377
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333403617143631,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4885268211364746
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.4968600273132324
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084773972630500793,
+					"inputVector":
+					{
+						"x": 0,
+						"y": -1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084773972630500793,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5053374767303467
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083721019327640533,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083721019327640533,
+					"inputVector":
+					{
+						"x": -0.99990004301071167,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.513709545135498
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.522042989730835
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5303764343261719
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5387098789215088
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5470433235168457
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5553765296936035
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5637099742889404
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5720434188842773
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5803768634796143
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5887103080749512
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.5970437526702881
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.605377197265625
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0086769014596939087,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6140539646148682
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083334967494010925,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6223874092102051
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083352997899055481,
+					"inputVector":
+					{
+						"x": -1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083352997899055481,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6307227611541748
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084914006292819977,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6392142772674561
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.647547721862793
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6558811664581299
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6642146110534668
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6725478172302246
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084597021341323853,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6810076236724854
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6893410682678223
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0084702000021934509,
+					"inputVector":
+					{
+						"x": 0,
+						"y": 1,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0084702000021934509,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.6978113651275635
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0086256973445415497,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7064371109008789
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7147705554962158
+		},
+		{
+			"actionValues": [
+				{
+					"key": "Mouse2D",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": -1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				},
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7231040000915527
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0085495002567768097,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7316534519195557
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7399868965148926
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7483201026916504
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7566535472869873
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7649869918823242
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7733204364776611
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.781653881072998
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7899870872497559
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.7983205318450928
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.008333500474691391,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.8066542148590088
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0088490992784500122,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.8155031204223633
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.8238365650177002
+		},
+		{
+			"actionValues": [
+				{
+					"key": "RightMouseButton",
+					"deltaTime": 0.0083333998918533325,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 3.8321700096130371
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.840503454208374
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.8489658832550049
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.8572990894317627
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.8659603595733643
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.8742938041687012
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.8826272487640381
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.890960693359375
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.8992938995361328
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9076273441314697
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9159607887268066
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9242942333221436
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9326276779174805
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9409608840942383
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9492943286895752
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9576277732849121
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9665534496307373
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9748868942260742
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.9832203388214111
+		},
+		{
+			"actionValues": [],
+			"worldTime": 3.991553783416748
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0000276565551758
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0083918571472168
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0167255401611328
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0250587463378906
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0333924293518066
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0417256355285645
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0500593185424805
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0583925247192383
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0667262077331543
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0750594139099121
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0833930969238281
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.0917263031005859
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1000595092773438
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1083931922912598
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1167263984680176
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1250600814819336
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1333932876586914
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1417269706726074
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1500601768493652
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1583938598632812
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1667304039001465
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1750640869140625
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1833972930908203
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.1917304992675781
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2000641822814941
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.208397388458252
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2173023223876953
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2256355285644531
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2339687347412109
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.242302417755127
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2506356239318848
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2589693069458008
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2673025131225586
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2756361961364746
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2839694023132324
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.2923030853271484
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.3006362915039062
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.3089699745178223
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.3173031806945801
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.3256430625915527
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.3339762687683105
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.3423099517822266
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.3506436347961426
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.3593282699584961
+		},
+		{
+			"actionValues": [
+				{
+					"key": "LeftMouseButton",
+					"deltaTime": 0.0083549022674560547,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 4.367682933807373
+		},
+		{
+			"actionValues": [
+				{
+					"key": "LeftMouseButton",
+					"deltaTime": 0.011311396956443787,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 4.3789944648742676
+		},
+		{
+			"actionValues": [
+				{
+					"key": "LeftMouseButton",
+					"deltaTime": 0.0084515027701854706,
+					"inputVector":
+					{
+						"x": 1,
+						"y": 0,
+						"z": 0
+					},
+					"inputDevice": 0
+				}
+			],
+			"worldTime": 4.3874459266662598
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.3958539962768555
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.404320240020752
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4127492904663086
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4211945533752441
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4298501014709473
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4382715225219727
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4470767974853516
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4555368423461914
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4641022682189941
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4724941253662109
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4808392524719238
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4893879890441895
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.4977717399597168
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.5066432952880859
+		},
+		{
+			"actionValues": [
+			],
+			"worldTime": 4.5158424377441406
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.5245919227600098
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.6309847831726074
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.6393179893493652
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.6477041244506836
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.6560373306274414
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.6643710136413574
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.6727042198181152
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.681063175201416
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.6893973350524902
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.6977500915527344
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7062101364135742
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7147665023803711
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7234811782836914
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.731931209564209
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7403054237365723
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7487983703613281
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7572026252746582
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7656183242797852
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7740035057067871
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7826347351074219
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7909760475158691
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.7994065284729004
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8078079223632812
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8162841796875
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8247036933898926
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8334884643554688
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.841860294342041
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8505845069885254
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8590517044067383
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8674936294555664
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8758416175842285
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8843278884887695
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.8926920890808105
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9015598297119141
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9104146957397461
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9190731048583984
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9275431632995605
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9361114501953125
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9445500373840332
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9531335830688477
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.962003231048584
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9706964492797852
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9793634414672852
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9879183769226074
+		},
+		{
+			"actionValues": [],
+			"worldTime": 4.9972290992736816
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0064616203308105
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0149288177490234
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0234880447387695
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0322575569152832
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0409960746765137
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0499296188354492
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0585308074951172
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0670061111450195
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.07562255859375
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0841779708862305
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.0928215980529785
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1014537811279297
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1100602149963379
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1185870170593262
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1270284652709961
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1360325813293457
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.144991397857666
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1536788940429688
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.162238597869873
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1712021827697754
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1797957420349121
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1884031295776367
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.1971492767333984
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2058758735656738
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2145547866821289
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2237353324890137
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2324604988098145
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.241908073425293
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2511768341064453
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2596316337585449
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2682814598083496
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2770953178405762
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.285761833190918
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.2943949699401855
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3030734062194824
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3116931915283203
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3204221725463867
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3291792869567871
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3379311561584473
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3466839790344238
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3555469512939453
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3642377853393555
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3729758262634277
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.381645679473877
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3903627395629883
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.3992147445678711
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4079880714416504
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4168267250061035
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4256291389465332
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4344820976257324
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4430899620056152
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4522294998168945
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4610028266906738
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.470151424407959
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4789695739746094
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4877257347106934
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.4968032836914062
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5056676864624023
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5144429206848145
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5231962203979492
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5320301055908203
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.541102409362793
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5497531890869141
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5585751533508301
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5672321319580078
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5760579109191895
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5849299430847168
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.5937457084655762
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6025180816650391
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6115808486938477
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6208162307739258
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6297502517700195
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6385736465454102
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6474514007568359
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6562566757202148
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6653833389282227
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6746702194213867
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6835713386535645
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.6924939155578613
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7015066146850586
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7103128433227539
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.719306468963623
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7285747528076172
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7374749183654785
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.746589183807373
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7555012702941895
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7645454406738281
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7736272811889648
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7825984954833984
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.7915477752685547
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8004231452941895
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8105745315551758
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8196315765380859
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8286972045898438
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8377227783203125
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8465981483459473
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8556385040283203
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8646106719970703
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8743281364440918
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8834280967712402
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.8926620483398438
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9017844200134277
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9106969833374023
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9200453758239746
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.928980827331543
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9380640983581543
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9470205307006836
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9559555053710938
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9649844169616699
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9740300178527832
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9830565452575684
+		},
+		{
+			"actionValues": [],
+			"worldTime": 5.9925112724304199
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0019183158874512
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0110087394714355
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0200791358947754
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0290637016296387
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0380282402038574
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0471019744873047
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0561914443969727
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0653643608093262
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.075037956237793
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0840511322021484
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.0930490493774414
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.1021676063537598
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.1111884117126465
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.1202707290649414
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.1293911933898926
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.1385469436645508
+		},
+		{
+			"actionValues": [],
+			"worldTime": 6.1477174758911133
+		}
+	],
+	"initialTransform":
+	{
+		"rotation":
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"w": 1
+		},
+		"translation":
+		{
+			"x": 392.23656791138239,
+			"y": -904.12350544786329,
+			"z": 89.649996906469482
+		},
+		"scale3D":
+		{
+			"x": 1,
+			"y": 1,
+			"z": 1
+		}
+	}
+}
