@@ -19,6 +19,8 @@
 #include "EnhancedInputSubsystems.h"
 #include "HSActors/BoardSchemeActor.h"
 #include "HSActors/Cable.h"
+#include "UI/MiniMainMenu.h"
+#include "UI/MiniSettingsMenu.h"
 
 DEFINE_LOG_CATEGORY_STATIC(BaseCharacterLog, All, All)
 
@@ -83,6 +85,8 @@ void AHUBaseCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 		EnhancedInputComponent->BindAction(InteractAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::Interact);
 		EnhancedInputComponent->BindAction(ToggleInventoryAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::ToggleInventory);
 		EnhancedInputComponent->BindAction(DeleteHoloAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::DeleteHolo);
+		EnhancedInputComponent->BindAction(ToggleMiniMainMenuAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::ToggleMiniMainMenu);
+		EnhancedInputComponent->BindAction(ToggleMiniSettingsMenuAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::ToggleMiniSettingsMenu);
 	}
 }
 
@@ -228,6 +232,76 @@ void AHUBaseCharacter::ToggleInventory()
 				PlayerController->SetIgnoreLookInput(false);
 				PlayerController->SetIgnoreMoveInput(false);
 				InputMode = EInputMode::Game;
+			}
+		}
+	}
+}
+
+void AHUBaseCharacter::ToggleMiniMainMenu()
+{
+	if (InputMode == EInputMode::Game) {
+
+		if (!MiniMainMenuWidget){
+			if (APlayerController* PlayerController = Cast<APlayerController>(Controller)) {
+				MiniMainMenuWidget = CreateWidget<UMiniMainMenu>(PlayerController, MiniMainMenuWidgetClass);
+				MiniMainMenuWidget->AddToViewport(1);
+				PlayerController->SetIgnoreLookInput(true);
+				PlayerController->SetIgnoreMoveInput(true);
+				FInputModeGameAndUI InputGameUIMode;
+				InputGameUIMode.SetLockMouseToViewportBehavior(EMouseLockMode::DoNotLock);
+				InputGameUIMode.SetHideCursorDuringCapture(false);
+				PlayerController->SetInputMode(InputGameUIMode);
+				PlayerController->SetShowMouseCursor(true);
+				InputMode = EInputMode::UI;
+			}
+		}
+	}
+	else {
+		if (MiniMainMenuWidget) {
+			if (APlayerController* PlayerController = Cast<APlayerController>(Controller)) {
+				FInputModeGameOnly InputGameMode;
+				PlayerController->SetInputMode(InputGameMode);
+				PlayerController->SetShowMouseCursor(false);
+				PlayerController->SetIgnoreLookInput(false);
+				PlayerController->SetIgnoreMoveInput(false);
+				InputMode = EInputMode::Game;
+				MiniMainMenuWidget->RemoveFromViewport();
+				MiniMainMenuWidget = nullptr;
+			}
+		}
+	}
+}
+
+void AHUBaseCharacter::ToggleMiniSettingsMenu()
+{
+	if (InputMode == EInputMode::Game) {
+
+		if (!MiniSettingsMenuWidget) {
+			if (APlayerController* PlayerController = Cast<APlayerController>(Controller)) {
+				MiniSettingsMenuWidget = CreateWidget<UMiniSettingsMenu>(PlayerController, MiniSettingsMenuWidgetClass);
+				MiniSettingsMenuWidget->AddToViewport(1);
+				PlayerController->SetIgnoreLookInput(true);
+				PlayerController->SetIgnoreMoveInput(true);
+				FInputModeGameAndUI InputGameUIMode;
+				InputGameUIMode.SetLockMouseToViewportBehavior(EMouseLockMode::DoNotLock);
+				InputGameUIMode.SetHideCursorDuringCapture(false);
+				PlayerController->SetInputMode(InputGameUIMode);
+				PlayerController->SetShowMouseCursor(true);
+				InputMode = EInputMode::UI;
+			}
+		}
+	}
+	else {
+		if (MiniSettingsMenuWidget) {
+			if (APlayerController* PlayerController = Cast<APlayerController>(Controller)) {
+				FInputModeGameOnly InputGameMode;
+				PlayerController->SetInputMode(InputGameMode);
+				PlayerController->SetShowMouseCursor(false);
+				PlayerController->SetIgnoreLookInput(false);
+				PlayerController->SetIgnoreMoveInput(false);
+				InputMode = EInputMode::Game;
+				MiniSettingsMenuWidget->RemoveFromViewport();
+				MiniSettingsMenuWidget = nullptr;
 			}
 		}
 	}
