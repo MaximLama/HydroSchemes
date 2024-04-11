@@ -86,7 +86,6 @@ void AHUBaseCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 		EnhancedInputComponent->BindAction(ToggleInventoryAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::ToggleInventory);
 		EnhancedInputComponent->BindAction(DeleteHoloAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::DeleteHolo);
 		EnhancedInputComponent->BindAction(ToggleMiniMainMenuAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::ToggleMiniMainMenu);
-		EnhancedInputComponent->BindAction(ToggleMiniSettingsMenuAction, ETriggerEvent::Triggered, this, &AHUBaseCharacter::ToggleMiniSettingsMenu);
 	}
 }
 

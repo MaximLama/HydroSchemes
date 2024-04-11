@@ -20,6 +20,7 @@ void UMiniMainMenu::OpenSettingsMenu()
 	AHUBaseCharacter *Character = Cast<AHUBaseCharacter>(UGameplayStatics::GetPlayerCharacter(GetWorld(), 0));
 	if (!Character)return;
 	Character->ToggleMiniMainMenu();
+	Character->ToggleMiniSettingsMenu();
 }
 
 void UMiniMainMenu::ExitGame()
