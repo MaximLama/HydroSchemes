@@ -17,6 +17,8 @@ class UInventoryComponent;
 class ABoardSchemeActor;
 class ABoardPart;
 class UInventory;
+class UMiniMainMenu;
+class UMiniSettingsMenu;
 
 UENUM(BlueprintType)
 enum class EInputMode : uint8
@@ -46,10 +48,20 @@ protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Components")
 	TObjectPtr<UCameraComponent> CameraComponent;
 
-	UPROPERTY(EditDefaultsOnly)
+	UPROPERTY(EditDefaultsOnly, Category = "UIWidget")
 	TSubclassOf<UInventory> InventoryWidgetClass;
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(VisibleAnywhere, Category = "UIWidget")
 	TObjectPtr<UInventory> InventoryWidget;
+
+	UPROPERTY(EditDefaultsOnly,Category = "UIWidget")
+	TSubclassOf<UMiniMainMenu> MiniMainMenuWidgetClass;
+	UPROPERTY(VisibleAnywhere, Category = "UIWidget")
+	TObjectPtr<UMiniMainMenu> MiniMainMenuWidget;
+
+	UPROPERTY(EditDefaultsOnly, Category = "UIWidget")
+	TSubclassOf<UMiniSettingsMenu> MiniSettingsMenuWidgetClass;
+	UPROPERTY(VisibleAnywhere, Category = "UIWidget")
+	TObjectPtr<UMiniSettingsMenu> MiniSettingsMenuWidget;
 
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -88,6 +100,12 @@ public:
 	TObjectPtr<UInputAction> ToggleInventoryAction;
 
 	UPROPERTY(EditAnywhere, Category = "Input")
+	TObjectPtr<UInputAction> ToggleMiniMainMenuAction;
+
+	UPROPERTY(EditAnywhere, Category = "Input")
+	TObjectPtr<UInputAction> ToggleMiniSettingsMenuAction;
+
+	UPROPERTY(EditAnywhere, Category = "Input")
 	TObjectPtr<UInputAction> DeleteHoloAction;
 
 	UPROPERTY(EditAnywhere, Category = "Holo")
@@ -112,6 +130,12 @@ public:
 	void CheckHoloState(ABoardSchemeActor* AttachBoardSchemeActor, const FName SocketOutputName);
 	void DestroyHolo();
 
+	UFUNCTION()
+	void ToggleMiniMainMenu();
+
+	UFUNCTION()
+	void ToggleMiniSettingsMenu();
+
 private:
 	EInputMode InputMode = EInputMode::Game;
 	EHoloState HoloState = EHoloState::Deleted;
@@ -122,6 +146,7 @@ private:
 	void Look(const FInputActionValue& Value);
 	UFUNCTION()
 	void ToggleInventory();
+
 	UFUNCTION()
 	void DeleteHolo();
 	void PlaceElement();
