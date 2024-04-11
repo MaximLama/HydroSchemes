@@ -103,9 +103,6 @@ public:
 	TObjectPtr<UInputAction> ToggleMiniMainMenuAction;
 
 	UPROPERTY(EditAnywhere, Category = "Input")
-	TObjectPtr<UInputAction> ToggleMiniSettingsMenuAction;
-
-	UPROPERTY(EditAnywhere, Category = "Input")
 	TObjectPtr<UInputAction> DeleteHoloAction;
 
 	UPROPERTY(EditAnywhere, Category = "Holo")

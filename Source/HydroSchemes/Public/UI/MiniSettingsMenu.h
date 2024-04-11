@@ -6,6 +6,7 @@
 #include "Blueprint/UserWidget.h"
 #include "MiniSettingsMenu.generated.h"
 
+class UButton;
 /**
  * 
  */
@@ -14,5 +15,11 @@ class HYDROSCHEMES_API UMiniSettingsMenu : public UUserWidget
 {
 	GENERATED_BODY()
 
+public:
 
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	TObjectPtr<UButton> ReturnButton;
+
+	UFUNCTION(BlueprintCallable)
+	void CloseWidget();
 };
